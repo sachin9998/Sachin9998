@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin Alam</h1>
 <h3 align="center">I'm Learning iOS Development</h3>
 
+- 🌱 I’m currently learning **iOS Developement**
+
+- 💬 Ask me about **Swift UI, Cocopoda, MVVM**
+
 - 📫 How to reach me **sachinalam4216@gmail.com**
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 [![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin9998)](https://github.com/anuraghazra/github-readme-stats)
 
