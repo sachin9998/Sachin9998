@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin9998&label=Profile%20views&color=0e75b6&style=flat" alt="Sachin Alam" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning MERN Stack Developement & **Data Structures And Algorithms**
 
 - ⚡ Fun fact **Have some fun !!!**
 
